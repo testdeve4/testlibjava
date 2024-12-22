@@ -1,0 +1,1 @@
+module module3 { requires module1; requires module2; exports com.example.module3; }

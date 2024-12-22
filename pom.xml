@@ -1,13 +1,13 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.username</groupId>
-    <artifactId>MyLibrary</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>ModularLibrary</artifactId>
     <version>1.0</version>
-    <name>MyLibrary</name>
-    <description>A modular Java library</description>
-
-    <dependencies>
-        <!-- Add any external dependencies if necessary -->
-    </dependencies>
+    <modules>
+        <module>module1</module>
+        <module>module2</module>
+        <module>module3</module>
+    </modules>
 </project>
