@@ -26,3 +26,7 @@ Add the following to your `pom.xml`:
 ```
 
 Replace `username` with your GitHub username.
+
+[![](https://jitpack.io/v/testdeve4/testlibjava.svg)](https://jitpack.io/#testdeve4/testlibjava)
+
+
